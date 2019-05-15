@@ -16,7 +16,15 @@ int[] myIntArray = new int[]{1, 2, 3}; - määrab dünaamiliselt massiivi pikkus
 
 
 String[] myStringArray = new String[3];
-
 String[] myStringArray = {"a", "b", "c"};
-
 String[] myStringArray = new String[]{"a", "b", "c"};
+
+
+byte byteArray[];
+short shortsArray[];
+boolean booleanArray[];
+long longArray[];
+float floatArray[];
+double doubleArray[];
+char charArray[];
+MyClass myClassArray[];
